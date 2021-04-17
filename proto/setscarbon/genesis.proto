@@ -1,0 +1,12 @@
+syntax = "proto3";
+package MasterPi2124.setscarbon.setscarbon;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/MasterPi-2124/setscarbon/x/setscarbon/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
+
